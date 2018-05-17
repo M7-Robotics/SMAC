@@ -1,0 +1,12 @@
+{
+    "name": "SMAC",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "SMAC-flow.json",
+            "credentialsFile": "SMAC-flow_cred.json"
+        }
+    }
+}
