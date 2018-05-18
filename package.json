@@ -2,7 +2,11 @@
     "name": "SMAC",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-mdashboard": "0.1.5",
+        "node-red-contrib-string": "0.2.2",
+        "node-red-node-rbe": "0.2.3"
+    },
     "node-red": {
         "settings": {
             "flowFile": "SMAC-flow.json",
