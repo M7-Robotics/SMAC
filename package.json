@@ -3,9 +3,9 @@
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "dependencies": {
-        "node-red-contrib-mdashboard": "0.1.5",
         "node-red-contrib-string": "0.2.2",
-        "node-red-node-rbe": "0.2.3"
+        "node-red-node-rbe": "0.2.3",
+        "node-red-dashboard": "2.9.3"
     },
     "node-red": {
         "settings": {
